@@ -1,3 +1,17 @@
++++
+title = "How to write array to text file in Python"
+date = 2021-11-23
+lastmod = 2021-11-24
+draft = false
+weight = 100
+keywords = ["python write array to text file"]
+description = "In this article, we will see how to create text file from array using different pre-defined functions in Python."
+tags = ["Python", "Python Array"]
+author = "A K M Ali Hasan"
+postlink = 
+inarticle = true
++++
+
 # Python-Array-to-Text-File
 
  If we want to have a list of values with us, we can go with list or if we want to make it constant we can go with tuple; on the other hand in array we can we can have all the values of same datatype. We can have int, float, string together in one list but we can’t have int, float, string together in Array. Hence in array if all the values are Integer array then it calls int array if all the values are floating point then it calls float array, similar for string array.
